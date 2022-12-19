@@ -1,0 +1,5 @@
+-------------------------------------------------
+\standalone\configuration\standalone.xml
+-------------------------------------------------
+
+<driver name="mysql" module="com.mysql.driver"/>
